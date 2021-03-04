@@ -1,0 +1,26 @@
+{
+  "name": "badlion-assets-fetcher",
+  "version": "1.0.0",
+  "description": "Fetch all badlion assets, including \"cloaks\"!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukeeey/badlion-assets-fetcher.git"
+  },
+  "keywords": [
+    "minecraft"
+  ],
+  "author": "lukeeey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukeeey/badlion-assets-fetcher/issues"
+  },
+  "homepage": "https://github.com/lukeeey/badlion-assets-fetcher#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "fs-extra": "^9.1.0"
+  }
+}
